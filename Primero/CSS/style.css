@@ -1,0 +1,24 @@
+p{
+    color: green;
+    font-size: 20px
+}
+li{
+    font-style: italic
+}
+html {
+    text-align: center;
+}
+.Main_Title{
+    font-family: 'Courier New', Courier, monospace
+}
+.name{
+    font-size: 50px;
+}
+#Copyright{
+    font-style: italic;
+    margin-top: 30px;
+    font-size: 17px
+}
+body{
+    background-color: rgb(5, 221, 138)
+}
